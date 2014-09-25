@@ -3,6 +3,6 @@ kettes csere
 hármas csere
 négyes 
 ötös  csere 2
-hatos  csere
+hatos  csere 2
 hetes
 nyolcas
