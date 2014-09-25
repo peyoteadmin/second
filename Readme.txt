@@ -1,3 +1,4 @@
+egyes
 kettes csere 2
 hármas csere
 négyes 
