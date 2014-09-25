@@ -1,7 +1,7 @@
-egyes csere
+egyes 
 kettes csere
 hármas csere
-négyes csere
+négyes 
 ötös  csere
 hatos  csere
 hetes
