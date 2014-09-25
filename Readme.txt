@@ -1,8 +1,8 @@
 egyes 
-kettes csere 2
-hármas csere
+kettes 
+hármas 
 négyes 
-ötös  csere 2
-hatos  csere 2
+ötös  
+hatos 
 hetes 3
 nyolcas
