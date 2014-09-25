@@ -2,7 +2,7 @@ egyes
 kettes csere
 hármas csere
 négyes 
-ötös  csere
+ötös  csere 2
 hatos  csere
 hetes
 nyolcas
