@@ -1,6 +1,8 @@
-egyes
-kettes
-hármas
-négyes
-ötös
-hatos
+egyes 
+kettes csere
+hármas csere
+négyes 
+ötös  csere 2
+hatos  csere
+hetes
+nyolcas
